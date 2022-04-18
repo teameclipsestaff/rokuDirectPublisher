@@ -39,11 +39,7 @@
 				"videoType": "HLS"
 			}]
 		},
-		"language": "en-us",
-		"rating": {
-			"rating": "G",
-			"ratingSource": "USA_PR"
-		}
+		"language": "en-us"
 	}, {
 		"id": "7405a8c101ee4c9da312c426e6067044",
 		"title": "Sample Contents3",
@@ -61,11 +57,7 @@
 				"videoType": "smooth"
 			}]
 		},
-		"language": "en-us",
-		"rating": {
-			"rating": "G",
-			"ratingSource": "USA_PR"
-		}
+		"language": "en-us"
 	}, {
 		"id": "5686748268874a57a4ba3debda1619dd",
 		"title": "Sample Contents4",
@@ -85,11 +77,7 @@
 				"videoType": "dash"
 			}]
 		},
-		"language": "en-us",
-		"rating": {
-			"rating": "G",
-			"ratingSource": "USA_PR"
-		}
+		"language": "en-us"
 	}],
 	"playlists": [{
 		"name": "short-form",
