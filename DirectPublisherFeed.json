@@ -93,7 +93,7 @@
 	}],
 	"playlists": [{
 		"name": "short-form",
-		"itemIds": ["decbe34b64ea4ca281dc09997d0f23fd", "6c9d0951d6d74229afe4adf972b278dd", "7405a8c101ee4c9da312c426e6067044", "5686748268874a57a4ba3debda1619dd5686748268874a57a4ba3debda1619dd"]
+		"itemIds": ["decbe34b64ea4ca281dc09997d0f23fd", "6c9d0951d6d74229afe4adf972b278dd", "7405a8c101ee4c9da312c426e6067044", "5686748268874a57a4ba3debda1619dd"]
 	}],
 	"categories": [{
 		"name": "Roku Recommends",
