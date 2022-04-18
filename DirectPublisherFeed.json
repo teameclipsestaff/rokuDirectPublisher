@@ -11,7 +11,7 @@
 		"content": {
 			"dateAdded": "2015-06-11T14:14:54.431Z",
 			"captions": [],
-			"duration": 53,
+			"duration": 653,
 			"adBreaks": ["00:00:00", "00:00:53"],
 			"videos": [{
 				"url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
@@ -31,7 +31,7 @@
 		"content": {
 			"dateAdded": "2015-05-21T14:14:54.431Z",
 			"captions": [],
-			"duration": 59,
+			"duration": 1801,
 			"adBreaks": ["00:00:00", "00:00:59"],
 			"videos": [{
 				"url": "http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8",
@@ -49,7 +49,7 @@
 		"content": {
 			"dateAdded": "2015-05-21T14:14:54.431Z",
 			"captions": [],
-			"duration": 71,
+			"duration": 179,
 			"adBreaks": ["00:00:00", "00:01:11"],
 			"videos": [{
 				"url": "http://amssamples.streaming.mediaservices.windows.net/91492735-c523-432b-ba01-faba6c2206a2/AzureMediaServicesPromo.ism/manifest(format=m3u8-aapl)",
@@ -69,7 +69,7 @@
 		"content": {
 			"dateAdded": "2015-08-13T14:14:54.431Z",
 			"captions": [],
-			"duration": 63,
+			"duration": 585,
 			"adBreaks": ["00:00:00", "00:01:03"],
 			"videos": [{
 				"url": "http://ftp.itec.aau.at/datasets/DASHDataset2014/BigBuckBunny/15sec/BigBuckBunny_15s_simple_2014_05_09.mpd",
