@@ -54,7 +54,7 @@
 			"videos": [{
 				"url": "http://amssamples.streaming.mediaservices.windows.net/91492735-c523-432b-ba01-faba6c2206a2/AzureMediaServicesPromo.ism/manifest(format=m3u8-aapl)",
 				"quality": "HD",
-				"videoType": "smooth"
+				"videoType": "SMOOTH"
 			}]
 		},
 		"language": "en-us"
@@ -74,7 +74,7 @@
 			"videos": [{
 				"url": "http://ftp.itec.aau.at/datasets/DASHDataset2014/BigBuckBunny/15sec/BigBuckBunny_15s_simple_2014_05_09.mpd",
 				"quality": "HD",
-				"videoType": "dash"
+				"videoType": "DASH"
 			}]
 		},
 		"language": "en-us"
