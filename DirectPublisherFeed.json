@@ -19,7 +19,11 @@
 				"videoType": "MP4"
 			}]
 		},
-		"language": "en-us"
+		"language": "en-us",
+		"rating": {
+			"rating": "G",
+			"ratingSource": "USA_PR"
+		}
 	}, {
 		"id": "6c9d0951d6d74229afe4adf972b278dd",
 		"title": "Sample Contents2",
@@ -39,7 +43,11 @@
 				"videoType": "HLS"
 			}]
 		},
-		"language": "en-us"
+		"language": "en-us",
+		"rating": {
+			"rating": "G",
+			"ratingSource": "USA_PR"
+		}
 	}, {
 		"id": "7405a8c101ee4c9da312c426e6067044",
 		"title": "Sample Contents3",
@@ -57,7 +65,11 @@
 				"videoType": "SMOOTH"
 			}]
 		},
-		"language": "en-us"
+		"language": "en-us",
+		"rating": {
+			"rating": "G",
+			"ratingSource": "USA_PR"
+		}
 	}, {
 		"id": "5686748268874a57a4ba3debda1619dd",
 		"title": "Sample Contents4",
@@ -77,7 +89,11 @@
 				"videoType": "DASH"
 			}]
 		},
-		"language": "en-us"
+		"language": "en-us",
+		"rating": {
+			"rating": "G",
+			"ratingSource": "USA_PR"
+		}
 	}],
 	"playlists": [{
 		"name": "short-form",
