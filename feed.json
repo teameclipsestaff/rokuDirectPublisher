@@ -1,0 +1,91 @@
+{
+	"providerName": "Roku Direct Publisher Sample Feed",
+	"language": "en-US",
+	"lastUpdated": "2020-03-06T00:12:32.125Z",
+	"shortFormVideos": [{
+		"id": "decbe34b64ea4ca281dc09997d0f23fd",
+		"title": "Sample Contents1",
+		"shortDescription": "Sample Contents1",		
+		"thumbnail": "https://www.socialpost.news/wp-content/uploads/2022/02/1645519637_707_Neo-QLED-2022-Samsung-announces-new-mini-LED-TVs.jpg",
+		"releaseDate": "2022-04-18",
+		"content": {
+			"dateAdded": "2015-06-11T14:14:54.431Z",
+			"captions": [],
+			"duration": 653,
+			"adBreaks": ["00:00:00", "00:00:53"],
+			"videos": [{
+				"url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+				"quality": "HD",
+				"videoType": "MP4"
+			}]
+		},
+		"language": "en-us"
+	}, {
+		"id": "6c9d0951d6d74229afe4adf972b278dd",
+		"title": "Sample Contents2",
+		"shortDescription": "Sample Contents2",
+		"thumbnail": "https://eskipaper.com/images/samsung-3.jpg",
+		"genres": ["food"],
+		"tags": ["food", "cooking", "eating"],
+		"releaseDate": "2022-04-17",
+		"content": {
+			"dateAdded": "2015-05-21T14:14:54.431Z",
+			"captions": [],
+			"duration": 1801,
+			"adBreaks": ["00:00:00", "00:00:59"],
+			"videos": [{
+				"url": "http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8",
+				"quality": "HD",
+				"videoType": "HLS"
+			}]
+		},
+		"language": "en-us"
+	}, {
+		"id": "7405a8c101ee4c9da312c426e6067044",
+		"title": "Sample Contents3",
+		"shortDescription": "Sample Contents3",
+		"thumbnail": "https://gagadget.com/media/uploads/Samsung%20QLED%20TV.jpg",
+		"releaseDate": "2022-04-16",
+		"content": {
+			"dateAdded": "2015-05-21T14:14:54.431Z",
+			"captions": [],
+			"duration": 179,
+			"adBreaks": ["00:00:00", "00:01:11"],
+			"videos": [{
+				"url": "http://amssamples.streaming.mediaservices.windows.net/91492735-c523-432b-ba01-faba6c2206a2/AzureMediaServicesPromo.ism/manifest(format=m3u8-aapl)",
+				"quality": "FHD",
+				"videoType": "SMOOTH"
+			}]
+		},
+		"language": "en-us"
+	}, {
+		"id": "5686748268874a57a4ba3debda1619dd",
+		"title": "Sample Contents4",
+		"shortDescription": "Sample Contents4",
+		"thumbnail": "https://eskipaper.com/images/samsung-4.jpg",
+		"genres": ["science fiction"],
+		"tags": ["science fiction", "Comics", "cult"],
+		"releaseDate": "2022-04-15",
+		"content": {
+			"dateAdded": "2015-08-13T14:14:54.431Z",
+			"captions": [],
+			"duration": 585,
+			"adBreaks": ["00:00:00", "00:01:03"],
+			"videos": [{
+				"url": "http://ftp.itec.aau.at/datasets/DASHDataset2014/BigBuckBunny/15sec/BigBuckBunny_15s_simple_2014_05_09.mpd",
+				"quality": "HD",
+				"videoType": "DASH"
+			}]
+		},
+		"language": "en-us"
+	}],
+	"playlists": [{
+		"name": "short-form",
+		"itemIds": ["decbe34b64ea4ca281dc09997d0f23fd", "6c9d0951d6d74229afe4adf972b278dd", "7405a8c101ee4c9da312c426e6067044", "5686748268874a57a4ba3debda1619dd"]
+	}],
+	"categories": [{
+		"name": "Roku Recommends",
+		"playlistName": "short-form",
+		"order": "manual"
+	}]
+}
